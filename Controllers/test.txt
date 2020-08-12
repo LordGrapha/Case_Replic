@@ -1,1 +1,1 @@
-This one should fail // Not report status
+This one should fail // Not report status and not letting merge
